@@ -1,6 +1,6 @@
-def my_square(x):
-  """uses the ** operator"""
-  return(x ** 2)
+def my_square(z):
+  """uses the * operator"""
+  return(z * z)
 
-print(my_square(4))
+print(my_square(24))
 
