@@ -1,5 +1,6 @@
-# A file used by the collaborator
-an edit made by the owner.
+# Collaboration
+
+An edit made by the collaborator.
 
 i am a collaborator
 
